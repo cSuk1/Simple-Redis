@@ -1,0 +1,6 @@
+set key 1
+set name cx
+set age 21
+rem key
+hset p a 1
+hset p b 2

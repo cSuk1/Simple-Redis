@@ -1,0 +1,23 @@
+# ninja log v5
+1	204	7309806029598256	build.ninja	b0e9e23894974d52
+10	1236	7309294884473610	CMakeFiles/KVEngine.dir/trie/client.cpp.obj	955cab7bf2644043
+6	2520	7309779575304660	CMakeFiles/KVEngine.dir/trie/trie.cpp.obj	e7a28f427a27bf17
+6	1102	7309778067218288	CMakeFiles/KVEngine.dir/trie/trie_store.cpp.obj	2ce74d66989dea98
+7	1288	7309797189743895	CMakeFiles/KVEngine.dir/main.cpp.obj	7a3d52016848d9b3
+1289	2448	7309797201280152	KVEngine.exe	a73663c3f0f60bf5
+9	197	7309234928130589	CMakeFiles/KVEngine.dir/trie/evict_ploicy.cpp.obj	6d32eb999509e825
+24	1164	7309774649859825	CMakeFiles/KVEngine.dir/type/hash_type.cpp.obj	edd3f2abfb59993d
+17	1493	7309284485504114	CMakeFiles/KVEngine.dir/trie/aof.cpp.obj	7b687b1ab2c21107
+30	147	7309300064674959	CMakeFiles/KVEngine.dir/policy/evict_ploicy.cpp.obj	c2164ed6a016d250
+37	2274	7309300085979312	CMakeFiles/KVEngine.dir/persistence/aof.cpp.obj	85db47c9fcbdaab7
+11	1459	7309796877365238	CMakeFiles/KVEngine.dir/entry/client.cpp.obj	59e74dc3de861213
+20	1154	7309758054351712	CMakeFiles/KVEngine.dir/type/wrapper.cpp.obj	cb93af8fbe9f459f
+1	179	7309806029598256	build.ninja	b0e9e23894974d52
+23	1490	7309806044810357	CMakeFiles/KVEngine.dir/type/wrapper.cpp.obj	cb93af8fbe9f459f
+17	1688	7309806046801642	CMakeFiles/KVEngine.dir/type/hash_type.cpp.obj	edd3f2abfb59993d
+31	1765	7309806047558433	CMakeFiles/KVEngine.dir/persistence/aof.cpp.obj	85db47c9fcbdaab7
+6	1911	7309806049011819	CMakeFiles/KVEngine.dir/trie/trie_store.cpp.obj	2ce74d66989dea98
+39	2086	7309806050787313	CMakeFiles/KVEngine.dir/main.cpp.obj	7a3d52016848d9b3
+11	2113	7309806051058390	CMakeFiles/KVEngine.dir/entry/client.cpp.obj	59e74dc3de861213
+54	3333	7309806063192935	CMakeFiles/KVEngine.dir/trie/trie.cpp.obj	e7a28f427a27bf17
+3333	4497	7309806074828535	KVEngine.exe	a73663c3f0f60bf5
